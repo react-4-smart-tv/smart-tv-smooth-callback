@@ -1,6 +1,6 @@
 {
   "name": "@react4tv/smart-tv-smooth-callback",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "The library provides a solution for handling UI string conflicts, main JS for Smart TV",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
